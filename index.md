@@ -26,14 +26,14 @@ filter_by_threshold helper to split students into struggling
 
 ### Chart 1: Understanding vs. Desire for Pre-Lecture Videos
 
-![Scatter plot](images/chart1_scatter.png)
+![Scatter plot](/kaishunsatochoi.github.io-cool/images/chart1_scatter.png)
 
 The scatter shows demand spread broadly across all understanding
 levels, not just among struggling students.
 
 ### Chart 2: Average Desire for Pre-Lecture Videos by Understanding Level
 
-![Bar chart](images/chart2_bar.png)
+![Bar chart](/kaishunsatochoi.github.io-cool/images/chart2_bar.png)
 
 Students with the lowest understanding scores (1-2) show slightly
 higher average desire for pre-lecture videos, but students at the
@@ -41,7 +41,7 @@ highest levels (6-7) also rate them highly.
 
 ### Chart 3: Distribution of Preference - Struggling vs. Comfortable
 
-![Histogram](images/chart3_hist.png)
+![Histogram](/kaishunsatochoi.github.io-cool/images/chart3_hist.png)
 
 Both groups skew toward agreeing videos would help. The struggling
 group has slightly more weight at the high end, but the difference
